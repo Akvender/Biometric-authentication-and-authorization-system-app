@@ -1,6 +1,0 @@
-diff --git a/pliki haar/haarcascade_frontalface_default.xml b/programy/haarcascade_frontalface_default.xml
-rename from pliki haar/haarcascade_frontalface_default.xml
-rename to programy/haarcascade_frontalface_default.xml
-diff --git a/pliki haar/haarcascade_frontalface_alt_tree.xml b/programy/haarcascade_frontalface_alt_tree.xml
-rename from pliki haar/haarcascade_frontalface_alt_tree.xml
-rename to programy/haarcascade_frontalface_alt_tree.xml
